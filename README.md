@@ -1,4 +1,5 @@
-## Hello, I'm Denisa!
+## Hello, I'm Denisa! 
+I'm a 3rd year Computer Science Student<br/>
 
 <!--
 **DenisaSarafinceanu/DenisaSarafinceanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
