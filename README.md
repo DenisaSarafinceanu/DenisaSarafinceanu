@@ -1,17 +1,13 @@
-## Hello, I'm Denisa! 
-I'm a 3rd year Computer Science Student<br/>
+## Hello, I'm Denisa! 👋
+🎓 I'm a 3rd-year Computer Science student at the Technical University of Cluj-Napoca.  
+💻 I’m currently studying **Java** and exploring new technologies to enhance my skills.  
+🌟 I’m actively looking for an **internship** opportunity to contribute to exciting projects and grow professionally.  
 
-<!--
-**DenisaSarafinceanu/DenisaSarafinceanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 What I'm passionate about:
+- Software Development
+- Problem Solving
+- Learning new programming languages and frameworks
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Let's connect!
+- 📫 **Email:** [sarafin.deni@yahoo.ro]  
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/denisa-sarafinceanu-0759a2293/]
