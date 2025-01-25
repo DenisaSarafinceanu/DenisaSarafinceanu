@@ -15,6 +15,16 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🚀 My Journey:
+- **2022**: Started my Computer Science journey.
+- **2023**: Completed foundational courses in C and C++, building my problem-solving skills.
+- **2024**: Learning advanced frameworks and improving skills in Java and Python.  
+- **2025 and Beyond**: Aspiring to be a full-stack developer or software engineer.
+
+### 🏆 Certifications:
+- **Cambridge C1 Advanced Certificate**
+
 ### 💼 Let's connect!
 - 📫 **Email:** [sarafin.deni@yahoo.ro]  
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/denisa-sarafinceanu-0759a2293/]
