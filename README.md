@@ -10,4 +10,4 @@
 
 ### 💼 Let's connect!
 - 📫 **Email:** [sarafin.deni@yahoo.ro]  
-- 💼 **LinkedIn:** [(https://www.linkedin.com/in/denisa-sarafinceanu-0759a2293/]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/denisa-sarafinceanu-0759a2293/]
